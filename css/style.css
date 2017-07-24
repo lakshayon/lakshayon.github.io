@@ -146,6 +146,11 @@ header a:hover {
 	width: 250px;
 }
 
+#newsletter h3{
+	float:right;
+	padding: 0px;
+}
+
 /* boxes */
 
 #boxes {
